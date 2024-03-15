@@ -1,0 +1,1 @@
+src/sections/Footer.jsx
